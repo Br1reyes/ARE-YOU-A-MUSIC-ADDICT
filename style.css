@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family:"Dancing Script", cursive;
+    background-color: #3a3a3a;
+    text-align: center;
+  color:white;
+}
+
+img {
+    width: 400px;
+}
